@@ -1,2 +1,8 @@
+
 adding changes in a.txt/adding feature2 changes 
+=======
+
+
+adding changes in a.txt/feature1 changing 
+ feature1
 

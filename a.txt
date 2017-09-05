@@ -1,2 +1,2 @@
-adding changes in a.txt 
+adding changes in a.txt/adding feature2 changes 
 
